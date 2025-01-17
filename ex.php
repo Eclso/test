@@ -10,7 +10,7 @@
     <p>This is a sample report that embeds a sensitive file.</p>
     <?php
 
-        header('location:file:///etc/passwd')
+        header('location:file:///etc/passwd');
 
         >
     
