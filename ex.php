@@ -12,7 +12,7 @@
 
         header('location:file:///etc/passwd');
 
-        >
+        ?>
     
 </body>
 </html>
